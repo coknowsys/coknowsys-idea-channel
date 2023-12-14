@@ -1,0 +1,2 @@
+# coknowsys-idea-channel
+chimera
